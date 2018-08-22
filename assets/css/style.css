@@ -1,0 +1,24 @@
+header{
+font-family: cursive;
+color: blue;
+font-size: 150px;
+text-align: center;
+background-image:url("../images/gem.back.png");
+border: 10px;
+}
+
+footer {
+    text-align: center;
+    background-image:url("../images/gem.back.png");
+    height: 150px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+  }
+
+.instruct{
+    color: blue;
+
+
+}
