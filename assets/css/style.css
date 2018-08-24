@@ -17,3 +17,76 @@ footer {
     width: 100%;
   }
 
+  @media screen and (max-width: 980px) {
+    header{
+      position: static;
+      font-family: cursive;
+      color: blue;
+      font-size: 60px;
+      text-align: center;
+      background-image:url("../images/gem.back.png");
+      border: 10px;
+      }
+    
+    body {
+      position: static;
+    }
+
+    footer {
+      width: static;
+      height: 60px;
+    }
+  
+  }
+  @media screen and (max-width: 768px) {
+
+    header{
+      position: static;
+      font-family: cursive;
+      color: blue;
+      font-size: 40px;
+      text-align: center;
+      background-image:url("../images/gem.back.png");
+      border: 5px;
+      }
+  
+    
+    body {
+      position: static;
+    }
+  
+
+  
+    footer {
+      width: static;
+      height: 40px;
+    }
+  
+  }
+  
+  @media screen and (max-width: 640px) {
+    header{ 
+    position: static;
+    font-family: cursive;
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+    background-image:url("../images/gem.back.png");
+    border: 1px;
+    }
+
+
+    
+    body { 
+      position: static;
+     }
+  
+
+  
+    footer {
+      width: static;
+      height: 20px;
+    }
+    
+  }
+
