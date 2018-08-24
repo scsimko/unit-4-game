@@ -1,7 +1,7 @@
 header{
 font-family: cursive;
 color: blue;
-font-size: 150px;
+font-size: 100px;
 text-align: center;
 background-image:url("../images/gem.back.png");
 border: 10px;
@@ -10,7 +10,7 @@ border: 10px;
 footer {
     text-align: center;
     background-image:url("../images/gem.back.png");
-    height: 150px;
+    height: 100px;
     position: fixed;
     left: 0;
     bottom: 0;
